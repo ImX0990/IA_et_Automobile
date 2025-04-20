@@ -12,7 +12,7 @@ Ce projet explore l'intégration de l'intelligence artificielle dans le secteur 
 
 ## Auteur
 
-- Imad Moufaid
+- Groupe CyberSecurité - HighTech
 
 ## Licence
 
