@@ -37,7 +37,7 @@ L'application est accessible à l'adresse suivante : [ImX0990.pythonanywhere.com
 ### Fonctionnalités Principales
 - Génération de rapports PDF
 - Visualisation interactive des données
-- Chatbot basé sur LLM pour l'assistance aux utilisateurs
+- Assistant virtuel pour les requêtes liées aux rappels
 - Analyse prédictive pour l'identification des tendances
 - Interface adaptée à différents appareils
 
