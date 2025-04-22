@@ -5,6 +5,7 @@ Ce dépôt contient des documents et ressources liés à l'étude de l'intellige
 ## Contenu
 
 - **Rapport_de_Fonctionnement.pdf**: Rapport détaillant l'application de l'IA dans le secteur automobile.
+- **Rapport_de_Veille_Valide.pdf**: Rapport de veille technologique sur les avancées de l'IA dans l'industrie automobile.
 
 ## À propos du projet
 
